@@ -1,0 +1,13 @@
+D:\ShapesExercise\bin\Debug\netcoreapp3.1\ShapesExercise.exe
+D:\ShapesExercise\bin\Debug\netcoreapp3.1\ShapesExercise.deps.json
+D:\ShapesExercise\bin\Debug\netcoreapp3.1\ShapesExercise.runtimeconfig.json
+D:\ShapesExercise\bin\Debug\netcoreapp3.1\ShapesExercise.runtimeconfig.dev.json
+D:\ShapesExercise\bin\Debug\netcoreapp3.1\ShapesExercise.dll
+D:\ShapesExercise\bin\Debug\netcoreapp3.1\ShapesExercise.pdb
+D:\ShapesExercise\obj\Debug\netcoreapp3.1\ShapesExercise.csprojAssemblyReference.cache
+D:\ShapesExercise\obj\Debug\netcoreapp3.1\ShapesExercise.AssemblyInfoInputs.cache
+D:\ShapesExercise\obj\Debug\netcoreapp3.1\ShapesExercise.AssemblyInfo.cs
+D:\ShapesExercise\obj\Debug\netcoreapp3.1\ShapesExercise.csproj.CoreCompileInputs.cache
+D:\ShapesExercise\obj\Debug\netcoreapp3.1\ShapesExercise.dll
+D:\ShapesExercise\obj\Debug\netcoreapp3.1\ShapesExercise.pdb
+D:\ShapesExercise\obj\Debug\netcoreapp3.1\ShapesExercise.genruntimeconfig.cache
